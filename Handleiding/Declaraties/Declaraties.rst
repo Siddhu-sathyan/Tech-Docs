@@ -38,3 +38,6 @@ Klik eerst op **Nieuw**, en vul vervolgens de verschillende velden in op het for
 
 .. image:: Declaraties_Media/Declaraties001.png
 
+**Voeg een bonnetje toe**
+
+Nadat de uitgave is aangemaakt, is de volgende stap het toevoegen van een bonnetje. Klik op de knop Voeg bonnetje toe, en een verkenner verschijnt. Navigeer naar het bonnetje dat je wilt toevoegen en klik op Openen. Het nieuwe bonnetje wordt geregistreerd in de chatter, en het aantal bonnetjes verschijnt naast het 📎 (paperclip) pictogram onder het uitgavenformulier. Er kan meer dan één bonnetje aan een individuele uitgave worden toegevoegd, indien nodig. Het aantal bonnetjes dat aan de uitgave is toegevoegd, wordt weergegeven op het paperclip-pictogram.
