@@ -51,7 +51,7 @@ Klik eerst in het hoofdoverzicht van de **Uitgaven**-app (dit overzicht kan ook 
 
 Het bonnetje wordt gescand, en een nieuwe invoer wordt aangemaakt met de datum van vandaag als **Uitgavedatum**, en andere velden die automatisch worden ingevuld op basis van de gescande gegevens, zoals het totaalbedrag. Klik op de nieuwe invoer om het individuele uitgavenformulier te openen en breng de benodigde wijzigingen aan. Het gescande bonnetje verschijnt in de chatter.
 
-.. image:: Declaraties_Media/Declaraties002.png
+.. image:: Declaraties_Media/Declaraties001.png
 
 **Maak een uitgavenrapport aan** 
 ---------------------------------
