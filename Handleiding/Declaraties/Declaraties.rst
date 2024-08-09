@@ -43,6 +43,8 @@ Klik eerst op **Nieuw**, en vul vervolgens de verschillende velden in op het for
 
 Nadat de uitgave is aangemaakt, is de volgende stap het toevoegen van een bonnetje. Klik op de knop Voeg bonnetje toe, en een verkenner verschijnt. Navigeer naar het bonnetje dat je wilt toevoegen en klik op Openen. Het nieuwe bonnetje wordt geregistreerd in de chatter, en het aantal bonnetjes verschijnt naast het 📎 (paperclip) pictogram onder het uitgavenformulier. Er kan meer dan één bonnetje aan een individuele uitgave worden toegevoegd, indien nodig. Het aantal bonnetjes dat aan de uitgave is toegevoegd, wordt weergegeven op het paperclip-pictogram.
 
+.. image:: Declaraties_Media/Declaraties002.png
+
 **Nieuwe uitgaven aanmaken vanuit een gescand bonnetje**  
 ----------------------------------------------------------
 
@@ -51,7 +53,6 @@ Klik eerst in het hoofdoverzicht van de **Uitgaven**-app (dit overzicht kan ook 
 
 Het bonnetje wordt gescand, en een nieuwe invoer wordt aangemaakt met de datum van vandaag als **Uitgavedatum**, en andere velden die automatisch worden ingevuld op basis van de gescande gegevens, zoals het totaalbedrag. Klik op de nieuwe invoer om het individuele uitgavenformulier te openen en breng de benodigde wijzigingen aan. Het gescande bonnetje verschijnt in de chatter.
 
-.. image:: Declaraties_Media/Declaraties002.png
 
 **Maak een uitgavenrapport aan** 
 ---------------------------------
