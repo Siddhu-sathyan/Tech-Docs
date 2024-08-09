@@ -51,6 +51,8 @@ Nadat de uitgave is aangemaakt, is de volgende stap het toevoegen van een bonnet
 In plaats van alle informatie voor een uitgave handmatig in te voeren, kunnen uitgaven worden aangemaakt door een PDF-bonnetje te scannen.  
 Klik eerst in het hoofdoverzicht van de **Uitgaven**-app (dit overzicht kan ook worden geopend via **Uitgaven-app ‣ Mijn Uitgaven ‣ Mijn Uitgaven**), op **Scan**, en een verkenner verschijnt. Navigeer naar het bonnetje dat je wilt uploaden, klik erop om het te selecteren, en klik vervolgens op **Openen**.
 
+.. image:: Declaraties_Media/Declaraties003.png
+
 Het bonnetje wordt gescand, en een nieuwe invoer wordt aangemaakt met de datum van vandaag als **Uitgavedatum**, en andere velden die automatisch worden ingevuld op basis van de gescande gegevens, zoals het totaalbedrag. Klik op de nieuwe invoer om het individuele uitgavenformulier te openen en breng de benodigde wijzigingen aan. Het gescande bonnetje verschijnt in de chatter.
 
 
@@ -64,6 +66,8 @@ Uitgaven worden gekleurd op basis van de status. Elke uitgave met de status **Te
 Selecteer eerst elke individuele uitgave voor het rapport door het selectievakje naast elke invoer aan te vinken, of selecteer snel alle uitgaven in de lijst door het selectievakje naast **Uitgavedatum** aan te vinken.
 
 Een andere manier om snel alle uitgaven die nog niet in een uitgavenrapport staan toe te voegen, is door op **Maak Rapport Aan** te klikken zonder uitgaven te selecteren. Odoo zal dan automatisch alle uitgaven met de status **Te Indienen** selecteren die nog niet op een rapport staan.
+
+.. image:: Declaraties_Media/Declaraties004.png
 
 Zodra de uitgaven zijn geselecteerd, klik je op de knop **Maak Rapport Aan**. Het nieuwe rapport verschijnt met alle uitgaven vermeld op het tabblad **Uitgave**. Als er een bonnetje is toegevoegd aan een individuele uitgave, verschijnt een **📎 (paperclip)**-pictogram naast de kolommen **Klant om te Factureren** en **Analytische Verdeling**.
 
