@@ -91,9 +91,70 @@ Klik op een rapport om het te openen en klik vervolgens op Indienen bij manager.
 
 .. image:: Declaraties_Media/Declaraties007.png
 
+
 **Opmerking**:
     1. Als de lijst groot is, kan het nuttig zijn om de resultaten op **status** te groeperen, aangezien alleen rapporten met de status **In te dienen** ingediend hoeven te worden. Rapporten met de status **Goedgekeurd** of **Ingediend** hoeven niet te worden ingediend.
     2. De status van elk rapport wordt weergegeven in de kolom Status aan de rechterkant. Als de kolom **Status** niet zichtbaar is, klik dan op het pictogram **Extra opties (twee stippen)** aan het einde van de rij en schakel **Status** in.
 
 **Belangrijk**: 
 De secties **Goedkeuren van onkosten, Onkosten in de boekhouding posten** en **Werknemers vergoeden** zijn **alleen** voor gebruikers met de benodigde rechten.
+
+**Goedkeuren van onkosten**
+-----------------------------
+In Curq kan niet iedereen onkostenrapporten goedkeuren — alleen gebruikers met de benodigde rechten (of machtigingen) kunnen dat. Dit betekent dat een gebruiker minstens Team Goedkeurder rechten moet hebben voor de Onkosten app. Werknemers met de benodigde rechten kunnen onkostenrapporten bekijken, goedkeuren of afwijzen, en feedback geven dankzij de geïntegreerde communicatietool.
+
+Om te zien wie de rechten heeft om goed te keuren, ga naar de hoofdapp Instellingen en klik op Beheer gebruikers
+
+**Opmerking**
+
+Als de **Instellingen** app niet beschikbaar is, zijn bepaalde rechten mogelijk niet ingesteld op het account. Controleer het tabblad **Toegangsrechten** van de kaart van een gebruiker in de **Instellingen** app. De sectie **Beheer** (onderaan rechts op het tabblad **Toegangsrechten**) is ingesteld op een van de drie opties: 
+
+• *Geen (leeg)*: De gebruiker kan helemaal geen toegang krijgen tot de **Instellingen** app. 
+
+• *Toegangsrechten*: De gebruiker kan alleen de sectie **Gebruikers & Bedrijven** van de Instellingen app bekijken. 
+
+• *Instellingen*: De gebruiker heeft toegang tot de volledige **Instellingen** app zonder beperkingen.
+
+Klik op een persoon om hun kaart te bekijken, die het tabblad **Toegangsrechten** in de standaardweergave toont. Scroll omlaag naar de sectie **Human Resources**. Onder **Onkosten** zijn er vier opties: 
+
+• *Geen (leeg)*: Een leeg veld betekent dat de gebruiker geen rechten heeft om onkostenrapporten te bekijken of goed te keuren en alleen hun eigen rapporten kan bekijken. 
+
+• *Team Goedkeurder*: De gebruiker kan alleen onkostenrapporten bekijken en goedkeuren voor hun eigen specifieke team. 
+
+• *Alle Goedkeurder*: De gebruiker kan elk onkostenrapport bekijken en goedkeuren. 
+
+• *Beheerder*: De gebruiker kan elk onkostenrapport bekijken en goedkeuren, evenals toegang krijgen tot de rapportage- en configuratiemenu's in de *Onkosten* app.
+
+Gebruikers die in staat zijn om onkostenrapporten goed te keuren (meestal managers) kunnen eenvoudig alle onkostenrapporten bekijken waartoe zij toegang hebben. Ga naar **Onkostenapp ‣ Onkostenrapporten**, en er verschijnt een lijst met alle onkostenrapporten die de status **In te dienen, Ingediend, Goedgekeurd, Gepost** of **Voltooid** hebben. Onkostenrapporten met de status **Afgewezen** zijn verborgen in de standaardweergave.
+
+Rapporten kunnen op twee manieren worden goedgekeurd (individueel of meerdere tegelijk) en slechts op één manier worden afgewezen. Selecteer eerst de rapporten die u wilt goedkeuren door het selectievakje naast elk rapport aan te vinken, of klik op het vakje naast **Werknemer** om alle rapporten in de lijst te selecteren.
+
+**Belangrijk**
+
+Alleen rapporten met de status **Ingediend** kunnen worden goedgekeurd. Het wordt aanbevolen om alleen de ingediende rapporten weer te geven door de statusfilter aan de linkerkant aan te passen en alleen de **Ingediend** filter in te schakelen.
+
+Als een geselecteerd rapport niet kan worden goedgekeurd, verschijnt de knop **Rapport goedkeuren** niet, wat aangeeft dat er een probleem is met het geselecteerde rapport(en).
+
+Klik vervolgens op de knop **Rapport goedkeuren**.
+
+Om een individueel rapport goed te keuren, klik je op het rapport om naar een gedetailleerd overzicht van dat rapport te gaan. In dit overzicht worden verschillende opties gepresenteerd: Goedkeuren, Afwijzen of Terugzetten naar concept. Klik op Goedkeuren om het rapport goed te keuren.
+
+Als je op Afwijzen klikt, verschijnt een pop-upvenster. Voer een korte uitleg voor de afwijzing in het veld Reden voor afwijzing in en klik vervolgens op Afwijzen.
+
+Teammanagers kunnen eenvoudig alle onkostenrapporten van hun teamleden bekijken. Terwijl je in de Onkostenrapporten weergave bent, klik je op de optie Filters bovenaan onder het zoekvak, en klik op Mijn team in de sectie Filters. Dit toont alle rapporten voor het team van de manager.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
