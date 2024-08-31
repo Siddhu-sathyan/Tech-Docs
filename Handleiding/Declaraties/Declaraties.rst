@@ -180,7 +180,13 @@ Als je op **Afwijzen** klikt, verschijnt een pop-upvenster. Voer een korte uitle
 
 .. image:: Declaraties_Media/Declaraties017.png
 
+**Belangrijk**:
 
+Om onkostenrapporten in een boekhoudingsjournaal te posten, moet de gebruiker de volgende toegangsrechten hebben:
+
+• **Boekhouding**: Accountant of Adviseur.
+
+• **Onkosten**: Manager.
 
 
 
