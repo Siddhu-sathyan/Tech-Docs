@@ -161,6 +161,24 @@ De enige mensen die getagd kunnen worden in een bericht zijn volgers. Om te zien
 
 .. image:: Declaraties_Media/Declaraties013.png
 
+**Onkosten posten in de boekhouding**
+-------------------------------------
+
+Zodra een onkostenrapport is goedgekeurd, is de volgende stap om het rapport in het boekhoudingsjournaal te posten. Om alle onkostenrapporten te bekijken, ga naar **Onkostenapp ‣ Onkostenrapporten**. Om alleen de onkostenrapporten te bekijken die zijn goedgekeurd en gepost moeten worden, pas je de filters aan aan de linkerkant zodat alleen de status **Goedgekeurd** is ingeschakeld.
+
+.. image:: Declaraties_Media/Declaraties014.png
+
+Net als bij goedkeuringen kunnen onkostenrapporten op twee manieren worden gepost (individueel of meerdere tegelijk). Om meerdere onkostenrapporten tegelijk te posten, blijf je in de lijstweergave. Selecteer eerst de rapporten die je wilt posten door het selectievakje naast elk rapport aan te vinken, of klik op het vakje naast **Werknemer** om alle rapporten in de lijst te selecteren. Klik vervolgens op **Boekingen posten**.
+
+.. image:: Declaraties_Media/Declaraties015.png
+
+Om een individueel rapport te posten, klik je op het rapport om naar de gedetailleerde weergave van dat rapport te gaan. In deze weergave worden verschillende opties gepresenteerd: **Boekingen posten, Afwijzen** of **Terugzetten naar concept**. Klik op **Boekingen posten** om het rapport te posten.
+
+.. image:: Declaraties_Media/Declaraties016.png
+
+Als je op **Afwijzen** klikt, verschijnt een pop-upvenster. Voer een korte uitleg voor de afwijzing in het veld **Reden voor afwijzing** in en klik vervolgens op **Afwijzen**. Afgewezen rapporten kunnen worden bekeken door naar **Onkostenapp ‣ Onkostenrapporten** te gaan, en vervolgens de filters aan de linkerkant aan te passen zodat alleen **Afgewezen** is geselecteerd. Dit toont alleen de afgewezen onkostenrapporten.
+
+.. image:: Declaraties_Media/Declaraties017.png
 
 
 
