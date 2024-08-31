@@ -153,13 +153,13 @@ Teammanagers kunnen eenvoudig alle onkostenrapporten van hun teamleden bekijken.
 
 .. image:: Declaraties_Media/Declaraties012.png
 
-Tip
+**Tip**
 
 Als er meer informatie nodig is, zoals een ontbrekend ontvangstbewijs, is communicatie eenvoudig via de chatter. In een individueel rapport klik je gewoon op **Verzenden** bericht om het tekstvak voor berichten te openen. Typ een bericht, tag de betreffende persoon (indien nodig), en plaats het in de chatter door op Verzenden te klikken. Het bericht wordt gepost in de chatter, en de getagde persoon ontvangt een e-mailmelding van het bericht, evenals eventuele volgers.
 
 De enige mensen die getagd kunnen worden in een bericht zijn volgers. Om te zien wie een volger is, klik je op het 👤 **(persoon)** pictogram om de volgers van de onkosten weer te geven.
 
-.. image:: Declaraties_Media/Declaraties012.png
+.. image:: Declaraties_Media/Declaraties013.png
 
 
 
