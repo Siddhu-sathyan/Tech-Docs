@@ -202,7 +202,7 @@ Om een individueel rapport te betalen, klik je op een rapport in de lijstweergav
 Een pop-upvenster **Betaling registreren** verschijnt, met de velden **Journaal, Betaalmethode** en **Betaaldatum**, en de velden **Ontvanger Rekeningnummer, Bedrag** en **Memo**. Selecteer de bankrekening van de werknemer uit het vervolgkeuzemenu om de betaling direct op hun rekening te storten. Wanneer alle andere selecties correct zijn, klik je op **Betaling aanmaken** om de betaling naar de werknemer te sturen.
 
 
-
+.. image:: Declaraties_Media/Declaraties020.png
 
 
 
