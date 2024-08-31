@@ -188,6 +188,19 @@ Om onkostenrapporten in een boekhoudingsjournaal te posten, moet de gebruiker de
 
 • **Onkosten**: Manager.
 
+**Werknemers vergoeden**
+------------------------
+
+Nadat een onkostenrapport in het boekhoudingsjournaal is gepost, is de volgende stap het vergoeden van de werknemer. Om alle onkostenrapporten die betaald moeten worden te bekijken, ga naar **Onkostenapp ‣ Onkostenrapporten ‣ Rapporten om te betalen**.
+
+.. image:: Declaraties_Media/Declaraties018.png
+
+Om een individueel rapport te betalen, klik je op een rapport in de lijstweergave om naar de gedetailleerde weergave van dat rapport te gaan. Klik op **Betaling registreren** om de werknemer te betalen.
+
+.. image:: Declaraties_Media/Declaraties019.png
+
+Een pop-upvenster **Betaling registreren** verschijnt, met de velden **Journaal, Betaalmethode** en **Betaaldatum**, en de velden **Ontvanger Rekeningnummer, Bedrag** en **Memo**. Selecteer de bankrekening van de werknemer uit het vervolgkeuzemenu om de betaling direct op hun rekening te storten. Wanneer alle andere selecties correct zijn, klik je op **Betaling aanmaken** om de betaling naar de werknemer te sturen.
+
 
 
 
