@@ -80,3 +80,14 @@ Als sommige uitgaven die op het rapport zouden moeten staan ontbreken, kunnen ze
 
 .. image:: Declaraties_Media/Declaraties006.png
 
+**Dien een onkostenrapport in**
+
+Wanneer een onkostenrapport is voltooid, is de volgende stap om het rapport ter goedkeuring in te dienen bij een manager. Rapporten moeten individueel worden ingediend en kunnen niet in batches worden ingediend. Open het specifieke rapport uit de lijst met onkostenrapporten (als het rapport nog niet geopend is). Om alle onkostenrapporten te bekijken, ga naar **Onkostenapp ‣ Mijn onkosten ‣ Mijn rapporten**.
+
+De onkosten met de status **In te dienen** zijn gemakkelijk te herkennen, niet alleen aan de status **In te dienen**, maar ook omdat de tekst blauw is, terwijl de tekst van de andere onkosten zwart is.
+
+**Opmerking**:
+    1. Als de lijst groot is, kan het nuttig zijn om de resultaten op **status** te groeperen, aangezien alleen rapporten met de status **In te dienen** ingediend hoeven te worden. Rapporten met de status **Goedgekeurd** of **Ingediend** hoeven niet te worden ingediend.
+    2. De status van elk rapport wordt weergegeven in de kolom Status aan de rechterkant. Als de kolom **Status** niet zichtbaar is, klik dan op het pictogram **Extra opties (twee stippen)** aan het einde van de rij en schakel **Status** in.
+
+**Belangrijk**: De secties **Goedkeuren van onkosten, Onkosten in de boekhouding posten** en **Werknemers vergoeden** zijn **alleen** voor gebruikers met de benodigde rechten.
