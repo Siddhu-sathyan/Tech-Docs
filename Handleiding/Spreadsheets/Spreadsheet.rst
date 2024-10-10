@@ -8,6 +8,7 @@ Hoe maak je een nieuw spreadsheet?
 -----------------------------------
 Je kunt een spreadsheet maken door op de knop "Nieuw" te klikken.
 
+
 .. image:: Spreadsheets_Media/Spreadsheet001.png
 
 Voer de naam in van het spreadsheetbestand dat aangemaakt moet worden. 
@@ -107,3 +108,7 @@ Date
 30) YEAR.START(date)
 31) YEAR.END(date)
     
+=======
+
+
+
