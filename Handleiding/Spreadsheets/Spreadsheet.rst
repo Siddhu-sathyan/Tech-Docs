@@ -8,6 +8,11 @@ Hoe maak je een nieuw spreadsheet?
 -----------------------------------
 Je kunt een spreadsheet maken door op de knop "Nieuw" te klikken.
 
+Voer de naam in van het spreadsheetbestand dat aangemaakt moet worden. 
+
+De overzichtspagina toont alle aangemaakte spreadsheets. 
+Je kunt elk aangemaakt spreadsheetbestand bewerken door de optie "Bewerking" te selecteren.
+
 
 Glossary
 ========
