@@ -1,3 +1,4 @@
+
 ===========
 Spreadsheet
 ===========
@@ -12,4 +13,6 @@ Glossary
 ========
 
 Some of Spreadsheet's main `UI (user interface)` elements are highlighted and defined below.
+=======
+
 
