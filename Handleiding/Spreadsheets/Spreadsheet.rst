@@ -36,3 +36,22 @@ Menubalk
 5) Kolomkop
 6) Cellenmenu
 7) Onderbalk
+
+Functies
+---------
+
+Spreadsheetfuncties zijn onderverdeeld in de volgende categorieën:
+
+- Database
+- Date
+- Engineering
+- Financial
+- Info
+- Logical
+- Lookup
+- Math
+- Misc
+- Odoo
+- Operators
+- Statistical
+- Text
