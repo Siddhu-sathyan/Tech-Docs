@@ -20,10 +20,19 @@ Je kunt elk aangemaakt spreadsheetbestand bewerken door de optie "Bewerking" te 
 
 .. image:: Spreadsheets_Media/Spreadsheet003.png
 
-Glossary
-========
+Woordenlijst
+=============
 
-Some of Spreadsheet's main `UI (user interface)` elements are highlighted and defined below.
-=======
+Enkele van de belangrijkste elementen van een spreadsheet worden hieronder uitgelicht en gedefinieerd.
 
+.. image:: Spreadsheets_Media/Spreadsheet004.png
 
+Menubalk
+--------
+1) Bovenbalk
+2) Formulebalk
+3) Filterknop
+4) Rijkop
+5) Kolomkop
+6) Cellenmenu
+7) Onderbalk
