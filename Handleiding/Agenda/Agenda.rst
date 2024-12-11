@@ -6,6 +6,7 @@ Bij het openen van de *Kalender-app* hebben gebruikers een overzicht van hun hui
 
 .. image:: Agenda_Media/Agenda001.png
 
+
 .. image:: Agenda_Media/Agenda002.png
 
 
@@ -19,6 +20,8 @@ Curq Calendar stelt je in staat om een evenement op twee manieren te maken:
 1.2.2 Klik op de knop **'Nieuw'** in de overzichtsectie.
 
 1.2.1 Dubbelklik op een tijdslot
+--------------------------------
+
 Door op een specifiek tijdslot te dubbelklikken, verschijnt er een nieuw evenement venster op het scherm. Voer **Onderwerp afspraak** en klik op de knop **'Maken'**.
 
 .. image:: Agenda_Media/Agenda003.png
@@ -28,13 +31,23 @@ Nadat je hebt geklikt, wordt het nieuwe evenement aangemaakt en zichtbaar in de 
 .. image:: Agenda_Media/Agenda004.png
 
 1.2.2 Van de 'Nieuw' knop in de overzichtsectie
+------------------------------------------------
 
 Klik op de knop "Nieuw" in de linkerbovenhoek van de overzichtsectie.
 
 .. image:: Agenda_Media/Agenda005.png
 
-Een nieuw **Afspraken formulier** verschijnt op het scherm.Voer eerst het **'Afspraak onderwerp'** in het lege veld in. Selecteer vervolgens de mensen die de bijeenkomst zullen bijwonen. 
-Onder het **Afspraken details** tabblad, Selecteer de tijden **'Start op'** en **'Eindig op'** met behulp van de kalenderwidget. Het **duurveld** wordt automatisch berekend op basis van de geselecteerde tijd en datum. Een selectievakje geeft aan of het evenement de **hele dag** duurt. Indien geselecteerd, wordt het duurveld verwijderd uit het **Afspraken formulier**. Het veld Organisator wordt automatisch ingevuld op basis van de gebruikerslogin. Je kunt de **Organisator** wijzigen of aanmaken indien nodig. Voeg een **Omschrijving** toe voor het evenement. Stel een **herinnering** in als je wilt, en voer de **locatie** van het evenement in indien van toepassing. Voer de **URL voor videogesprek** in het daarvoor bestemde tekstvak in, en voeg **Labels** toe voor het evenement indien gewenst.
+- Een nieuw **Afspraken formulier** verschijnt op het scherm. Voer eerst het **'Afspraak onderwerp'** in het lege veld in. 
+- Selecteer vervolgens de mensen die de bijeenkomst zullen bijwonen. 
+- Onder het **Afspraken details** tabblad, Selecteer de tijden **'Start op'** en **'Eindig op'** met behulp van de kalenderwidget. 
+- Het **duurveld** wordt automatisch berekend op basis van de geselecteerde tijd en datum. 
+- Een selectievakje geeft aan of het evenement de **hele dag** duurt. 
+- Indien geselecteerd, wordt het duurveld verwijderd uit het **Afspraken formulier**. 
+- Het veld Organisator wordt automatisch ingevuld op basis van de gebruikerslogin. 
+- Je kunt de **Organisator** wijzigen of aanmaken indien nodig.
+- Voeg een **Omschrijving** toe voor het evenement. 
+- Stel een **herinnering** in als je wilt, en voer de **locatie** van het evenement in indien van toepassing. 
+- Voer de **URL voor videogesprek** in het daarvoor bestemde tekstvak in, en voeg **Labels** toe voor het evenement indien gewenst.
 
 .. image:: Agenda_Media/Agenda006.png
 
@@ -46,7 +59,7 @@ Klik tenslotte op het opslaan-icoon, weergegeven door een wolk met een omhoog wi
 
 .. image:: Agenda_Media/Agenda008.png
 
-Klik op de **e-mail**knop om de e-mail naar de geselecteerde vergaderingdeelnemer te sturen.
+Klik op de **e-mail** knop om de e-mail naar de geselecteerde vergaderingdeelnemer te sturen.
 
 .. image:: Agenda_Media/Agenda009.png
 
