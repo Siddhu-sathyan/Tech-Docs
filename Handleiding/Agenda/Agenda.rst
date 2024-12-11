@@ -10,3 +10,13 @@ Bij het openen van de *Kalender-app* hebben gebruikers een overzicht van hun hui
 
 
 **Tip** - Afhankelijk van de geselecteerde weergave-optie kunnen gebruikers op de (links of rechts pijltje) knoppen klikken om tussen dagen, weken, enzovoort te schakelen, en terug te schakelen naar de       huidige dag met de knop Vandaag.
+
+1.2 Een evenement maken en bewerken
+
+Curq Calendar stelt je in staat om een evenement op twee manieren te maken:
+1.2.1 Dubbelklik op een tijdslot in de overzichtsectie.
+1.2.2 Klik op de knop 'Nieuw' in de overzichtsectie.
+
+1.2.1 Dubbelklik op een tijdslot
+Door op een specifiek tijdslot te dubbelklikken, verschijnt er een nieuw evenement
+venster op het scherm. Voer Onderwerp afspraak en klik op de knop 'Maken'.
