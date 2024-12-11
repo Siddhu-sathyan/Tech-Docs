@@ -42,5 +42,18 @@ Onder het tabblad **Opties**, als het selectievakje voor **'Terugkerend'** is ge
 
 .. image:: Agenda_Media/Agenda007.png
 
+Klik tenslotte op het opslaan-icoon, weergegeven door een wolk met een omhoog wijzende pijl.
 
+.. image:: Agenda_Media/Agenda008.png
 
+Klik op de **e-mail**knop om de e-mail naar de geselecteerde vergaderingdeelnemer te sturen.
+
+.. image:: Agenda_Media/Agenda009.png
+
+Er verschijnt een nieuw dialoogvenster met de **Afspraken details**. Klik op de knop **'verzenden'** om de e-mail te verzenden, en deze wordt automatisch naar de geselecteerde **ontvangers** gestuurd.
+
+.. image:: Agenda_Media/Agenda010.png
+
+Om de **status** van het evenement te controleren, ga naar het tabblad **Uitnodigingen**.
+
+.. image:: Agenda_Media/Agenda011.png
