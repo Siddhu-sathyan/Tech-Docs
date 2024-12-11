@@ -7,10 +7,14 @@ Bij het openen van de *Kalender-app* hebben gebruikers een overzicht van hun hui
 .. image:: Agenda_Media/Agenda001.png
 
 
+
+
+
 .. image:: Agenda_Media/Agenda002.png
 
 
 **Tip** - Afhankelijk van de geselecteerde weergave-optie kunnen gebruikers op de (links of rechts pijltje) knoppen klikken om tussen dagen, weken, enzovoort te schakelen, en terug te schakelen naar de       huidige dag met de knop Vandaag.
+
 
 1.2 Een evenement maken en bewerken
 ====================================
@@ -70,3 +74,5 @@ Er verschijnt een nieuw dialoogvenster met de **Afspraken details**. Klik op de 
 Om de **status** van het evenement te controleren, ga naar het tabblad **Uitnodigingen**.
 
 .. image:: Agenda_Media/Agenda011.png
+
+
