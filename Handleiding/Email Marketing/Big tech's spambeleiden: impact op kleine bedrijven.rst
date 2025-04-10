@@ -314,6 +314,53 @@ Deze protocollen verifiëren je e-maildomein en geven een signaal aan ontvangend
    * - SPF (Afzenderbeleid Kader)
      - Zorg ervoor dat je SPF-record correct is ingesteld om de IP-adressen van je uitgaande mailserver te verifiëren.
 
+**9.3. Gebruik van mailinglijstsoftware**
+
+Het gebruik van een zelf-gehoste of open-source e-mailmarketing- en mailinglijsttool zorgt ervoor dat je bedrijf klanten rechtstreeks kan bereiken, zonder afhankelijk te zijn
+van de marketingplatforms van grote techbedrijven, die mogelijk strikte regels of spamfilters hanteren.
+
+.. list-table::
+   :widths: 20 20
+   :header-rows: 1
+
+
+   * - Hulpmiddel
+     - Beschrijving
+
+   * - Mailtrain
+     - Helpt je bij het configureren van domeinondertekening voor uitgaande e-mail.
+
+   * - Mautic
+     - Helpt je bij het implementeren en beheren van DMARC-beleid voor je domein.
+
+   * - phpList
+     - Zorg ervoor dat je SPF-record correct is ingesteld om de IP-adressen van je uitgaande mailserver te verifiëren.
+
+**9.4. SMTP-relayservices (open-source of betaalbaar)**
+
+Als je je eigen e-mailinfrastructuur niet wilt beheren, kun je gebruikmaken van externe SMTP-relayservices om de afleverbaarheid van e-mails te verbeteren. Deze diensten hebben over het algemeen een betere reputatie voor het verzenden van e-mails en helpen spamfilters te omzeilen door strikte standaarden aan te houden.
+
+.. list-table::
+   :widths: 20 20
+   :header-rows: 1
+
+
+   * - Hulpmiddel
+     - Beschrijving
+
+   * - Postal
+     - Een open-source platform voor e-mailverzending waarmee je e-mails kunt versturen met geavanceerde configuratie en tracking.
+
+   * - Sendmail (open-source)
+     - Een MTA (Mail Transfer Agent) die wordt gebruikt voor het verzenden,ontvangen en routeren van e-mail. Wordt vaak gebruikt in combinatie met andere tools zoals Postfix.
+
+   * - Mailgun (gratis versie)
+     - Hoewel Mailgun niet volledig open-source is, biedt het een open API en een gratis versie die kleine bedrijven kan helpen bij het versturen van transactionele e-mails volgens de beste e-            mailpraktijken.
+
+**9.5. Moedig gebruikers aan om je e-mailadres op de witte lijst te zetten**
+
+
+
 
 
 
