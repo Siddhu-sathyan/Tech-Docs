@@ -80,6 +80,11 @@ Terwijl grote bedrijven profiteren van gevestigde reputaties en whitelist-voorde
 
 5) **Hoe Spamfiltering Werkt?**
 --------------------------------
+.. list-table::
+   :header-rows: 1
+
+* - Component  
+  - Rol
 
 
 
