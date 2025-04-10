@@ -81,7 +81,7 @@ Terwijl grote bedrijven profiteren van gevestigde reputaties en whitelist-voorde
 5) **Hoe Spamfiltering Werkt?**
 --------------------------------
 .. list-table::
-   :widths: 20 20 
+   :widths: 25 25 
    :header-rows: 1
 
 
@@ -89,6 +89,25 @@ Terwijl grote bedrijven profiteren van gevestigde reputaties en whitelist-voorde
      - ROL
    * - E-mailafzender (daan@curq.nl)
      - De persoon of het systeem dat de e-mail verzendt.
+   * - Authenticatiedaemon
+     - Verifieert de identiteit van de afzender via e-mailauthenticatieprotocollen (SPF, DKIM, DMARC).
+   * - Afzender SMTP-service
+     - De uitgaande mailserver die de e-mail naar de server van de ontvanger stuurt.
+   * - Ontvanger SMTP-service (IMAP/POP3)
+     - De inkomende mailserver die binnenkomende e-mails verwerkt en opslaat.
+   * - IP-blacklistcontrole
+     - Controleert of het IP-adres van de afzender op een zwarte lijst staat. Zo ja,dan wordt de e-mail geweigerd.
+   * - Spamfiltering
+     - Analyseert e-mailinhoud, afzenderreputatie en gebruikersgedrag om te bepalen of een e-mail spam is.
+   * - Inboxbezorging
+     - Als de e-mail de spamfilters doorstaat, wordt deze afgeleverd in de inbox van de ontvanger.
+   * - Spammapbezorging
+     - Als de e-mail als spam wordt gemarkeerd, wordt deze in de spammap geplaatst.
+   * - Afgewezen e-mail
+     - Als het IP-adres van de afzender op een zwarte lijst staat, wordt de e-mail geweigerd en nooit afgeleverd.
+   * - E-mailontvanger (john@outlook.com)
+     - De persoon of het systeem dat de e-mail ontvangt en de inbox of spammap kan controleren.
+
    
 
 
