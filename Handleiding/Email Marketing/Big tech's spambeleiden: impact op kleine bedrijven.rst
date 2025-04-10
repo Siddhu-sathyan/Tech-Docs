@@ -49,6 +49,38 @@ De gevolgen van agressieve spamfilterbeleidsmaatregelen door grote technologiebe
 4) **Hoe Big Tech Kleine Bedrijven Onderdrukt?**
 --------------------------------------------------
 
+Grote technologiebedrijven hebben enorme controle over digitale communicatie en benadelen daarmee vaak kleine bedrijven door hun legitieme e-mails als spam te markeren. Deze praktijk of die nu opzettelijk is of het gevolg van te agressieve filteralgoritmes beperkt het bereik van kleine ondernemingen en heeft negatieve gevolgen voor klantbetrokkenheid, verkoop en algemene groei.
+
+Terwijl grote bedrijven profiteren van gevestigde reputaties en whitelist-voordelen, hebben startups en onafhankelijke bedrijven moeite met e-mailbezorging. Ze worden hierdoor gedwongen om dure mainstreamdiensten te gebruiken, of lopen het risico geloofwaardigheid en inkomsten te verliezen.
+
+**4.1. Oneerlijke Filtering en Verborgen Algoritmes**
+
+• De AI-systemen van Big Tech filteren e-mails zonder transparantie, waardoor kleine bedrijven geen mogelijkheid hebben om onterecht als spam gemarkeerde berichten aan te vechten.
+• Hun ondoorzichtige systemen geven voorrang aan e-mails van grote ondernemingen, terwijl promoties van kleine bedrijven als spam worden gemarkeerd.
+
+**4.2. Reputatievooroordeel en Gecentraliseerde Controle**
+
+• Gedeelde IP-adressen, waar kleine bedrijven vaak op vertrouwen, worden collectief bestraft wanneer één partij misbruik maakt.
+• Big Tech beheert de afzenderreputatie en verleent prioritaire whitelisting aan grote bedrijven, waardoor kleine ondernemingen vast blijven zitten in spamfilters.
+
+**4.3. Manipulatie door AI en Machine Learning**
+
+• Voortdurend veranderende spamfilters maken het voor kleine bedrijven moeilijk om zich aan te passen.
+• AI geeft prioriteit aan afzenders met grote verzendvolumes, waardoor kleinere bedrijven verder naar beneden worden geduwd in de e-mailhiërarchie.
+
+**4.4. Kostbaar en Onduidelijk Beroepsproces**
+
+• Wanneer een e-mail van een klein bedrijf onterecht wordt gemarkeerd, is het beroepsproces lang, onduidelijk en ineffectief.
+• Big Tech biedt premium e-maildiensten aan met betere bezorgbaarheid, wat kleine bedrijven in feite dwingt te betalen voor iets dat grote ondernemingen standaard krijgen.
+
+**4.5. Engagement-gebaseerde Filtering: Een Drempel voor het Succes van Kleine Bedrijven via E-mail**
+
+• Door AI aangestuurde filtering geeft de voorkeur aan bedrijven met al een hoge betrokkenheid, wat het extra moeilijk maakt voor nieuwe bedrijven om geloofwaardigheid op te bouwen.
+• Nieuwe bedrijven hebben moeite om hun doelgroep te bereiken, omdat lage openpercentages automatisch leiden tot filtering.
+
+5) **Hoe Spamfiltering Werkt?**
+--------------------------------
+
 
 
 
