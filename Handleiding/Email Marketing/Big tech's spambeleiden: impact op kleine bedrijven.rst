@@ -18,6 +18,8 @@ E-mail blijft een essentieel communicatie en marketingmiddel voor bedrijven. De 
 
 Van legitieme e-mails die als spam worden gemarkeerd tot problemen met zwarte lijsten deze uitdagingen belemmeren het bereiken van klanten, verminderen de effectiviteit van marketinginspanningen en zorgen voor onnodige operationele lasten.
 
+.. image:: Bigtech_Media/Bigtech003.png
+
 Hier volgt hoe deze verborgen mechanismen kleine bedrijven beïnvloeden:
 
 **Legitieme e-mails worden als spam gemarkeerd**
@@ -89,7 +91,7 @@ Terwijl grote bedrijven profiteren van gevestigde reputaties en whitelist-voorde
 
 
    * - Component 
-     - ROL
+     - Rol
    * - E-mailafzender (daan@curq.nl)
      - De persoon of het systeem dat de e-mail verzendt.
    * - Authenticatiedaemon
@@ -213,6 +215,8 @@ Kleine bedrijven hebben vaak te maken met bezorgproblemen als gevolg van verschi
 ----------------------------------------------------------------------------------
 
 Om de e-mailbezorging te verbeteren en te voorkomen dat berichten als spam worden gemarkeerd, moeten kleine bedrijven de volgende strategieën toepassen:
+
+.. image:: Bigtech_Media/Bigtech002.png
 
 • **Gebruik een toegewijd IP-adres** – Vermijd gedeelde IP’s om meer controle te behouden over de afzenderreputatie.
 • **Warm e-mailverzending geleidelijk op** – Begin met kleinere e-mailbatches om vertrouwen op te bouwen bij e-mailproviders
