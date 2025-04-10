@@ -80,6 +80,9 @@ Terwijl grote bedrijven profiteren van gevestigde reputaties en whitelist-voorde
 
 5) **Hoe Spamfiltering Werkt?**
 --------------------------------
+
+.. image:: Big tech_Media/Bigtech001.png
+
 .. list-table::
    :widths: 25 25 
    :header-rows: 1
