@@ -134,7 +134,64 @@ Terwijl grote bedrijven profiteren van gevestigde reputaties en whitelist-voorde
 • De ontvanger (bijv. john@outlook.com) controleert de inbox of de spammap.
 • Als de e-mail in de spammap staat, verbetert het markeren als "Geen spam" de toekomstige bezorging.
 
-   
+6) **De Controle van Big Tech over Spam**
+------------------------------------------
+Om te begrijpen waarom e-mails die vanaf platforms van kleine bedrijven worden verzonden als spam worden gemarkeerd, is het essentieel om inzicht te hebben in het “onbetrouwbare” spambeleid van Big Tech-bedrijven zoals Google en Microsoft.
+
+Grote technologiebedrijven domineren e-mailcommunicatie door het handhaven van strikte spamregels die kleine bedrijven vaak benadelen. E-mails die worden verzonden via derde partijen of minder bekende providers zoals Curq, worden vaak geblokkeerd of als spam gemarkeerd, wat hun bereik naar klanten aanzienlijk beperkt.
+
+Inzicht in hoe deze spamfilters werken is cruciaal om de e-mailbezorging te verbeteren en de door Big Tech opgelegde barrières te doorbreken.
+
+**6.1. Spambeleid**
+
+1. **Verborgen Beperkingen voor Kleine Bedrijven**
+
+Big Tech blokkeert e-mails die niet voldoen aan strikte beveiligingsnormen, wat de contactmogelijkheden van kleine bedrijven belemmert.
+
+• Geen versleuteling: E-mails zonder TLS worden als onveilig gemarkeerd.
+• Spamverleden: Als een provider eerder is misbruikt, kunnen al zijn e-mails worden geblokkeerd.
+
+2. **Strikte Authenticatiebarrières**
+
+Complexe authenticatieregels leiden vaak tot automatische markering van e-mails van kleine bedrijven als spam.
+
+• SPF: Bevestigt de legitimiteit van de afzender; bij falen daalt de geloofwaardigheid.
+• DKIM: Voegt een digitale handtekening toe om manipulatie te voorkomen.
+• DMARC: Bepaalt hoe e-mails met mislukte SPF- en DKIM-controles worden behandeld. Zonder deze protocollen worden e-mails geblokkeerd, wat klantcontact bemoeilijkt.
+
+3. **Gekleurde Spamfilters Bevoordelen Big Tech**
+
+Big Tech scant e-mails agressief en blokkeert daarbij vaak legitieme berichten van kleine bedrijven.
+
+• Spamtriggers: Te veel links, misleidende onderwerpregels, grote bijlagen of woorden als "gratis" of "klik hier" activeren de spamfilters.
+• Geen personalisatie: Generieke e-mails worden vaak als spam gemarkeerd. Grote bedrijven met een gevestigde reputatie daarentegen genieten van betere plaatsing in de inbox.
+
+4. **Oneerlijk Afzenderreputatiesysteem**
+
+Big Tech houdt de e-mailreputatie bij en straft daarbij vaak kleine bedrijven.
+• Slechte reputatie: Hoge bouncepercentages of spamklachten leiden tot blokkering.
+• Problemen met zwarte lijsten: Te veel klachten kunnen leiden tot blokkering van een volledig e-maildomein.
+
+5. **Strikte Naleving Bevoordeelt Big Tech**
+
+Big Tech handhaaft strikte e-mailwetten (zoals CAN-SPAM, GDPR, CASL), waardoor e-mailmarketing voor kleine bedrijven moeilijker wordt.
+
+• Privacyregels: E-mails van providers zonder strikte gegevensbeleid kunnen worden geweigerd.
+• Afmeldmogelijkheid: Ontbrekende opt-out-links leiden tot markering als spam.
+
+**6.2. Spamfilters**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
