@@ -359,6 +359,41 @@ Als je je eigen e-mailinfrastructuur niet wilt beheren, kun je gebruikmaken van 
 
 **9.5. Moedig gebruikers aan om je e-mailadres op de witte lijst te zetten**
 
+Moedig je klanten aan om je e-mailadres of domein op de witte lijst te zetten, zodat je e-mails niet in hun spammap terechtkomen. Dit is vooral belangrijk voor bedrijven
+met een loyale klantenbasis, die rechtstreeks invloed kunnen hebben op het succes van e-mailcampagnes.
+
+• **Bevestigingsmail bij inschrijving**: Nadat een gebruiker zich heeft ingeschreven voor je nieuwsbrief of dienst, stuur je een e-mail met het verzoek: “Bevestig je inschrijving”, inclusief instructies om je e-mailadres te whitelisten.
+• **Herinnering om toe te voegen aan adresboek**: Voeg in je eerste e-mail of nieuwsbrief een herinnering toe waarin je gebruikers vraagt om je e-mailadres aan hun adresboek toe te voegen, om te voorkomen dat het als spam wordt gemarkeerd.
+
+Er zijn verschillende gratis en open-source (FOSS) oplossingen beschikbaar voor het filteren van spam. Deze tools kunnen bedrijven of individuen helpen om spam effectief te beheren, zonder afhankelijk te zijn van propriëtaire diensten. Hieronder vind je enkele populaire FOSS-tools die je kunt overwegen voor het filteren van e-mail spam:
+
+.. list-table::
+   :widths: 20 20
+   :header-rows: 1
+
+
+   * - Hulpmiddel
+     - Belangrijkste kenmerken
+
+   * - SpamAssassin
+     - • Aanpasbare regelsets.
+       • Ondersteunt diverse plug-ins voor extra filtermogelijkheden. 
+       • Kan worden geïntegreerd met andere e-mailsystemen (zoals Postfix, Sendmail, Exim).
+       • Actieve gemeenschap en regelmatige updates.
+
+   * - Rspamd
+     - • Hoge prestaties en ontworpen om grote hoeveelheden e-mail te verwerken.
+       • Ingebouwde ondersteuning voor DKIM, DMARC, SPF en greylisting.
+       • Machine learning voor verbeterde spamdetectie.
+       • Webgebaseerde gebruikersinterface voor configuratie.
+       • Integratie met populaire MTA-systemen (Mail Transfer Agent) zoals Postfix, Exim en Sendmail.
+
+   * - Amavisd-new
+     - • Integreert met externe spamfiltersystemen zoals SpamAssassin, Razor en Pyzor.
+       • Ondersteunt virusscanning met populaire tools zoals ClamAV.
+       • Biedt flexibele beleidsinstellingen en eenvoudige integratie met mailservers.
+
+
 
 
 
