@@ -144,14 +144,14 @@ Inzicht in hoe deze spamfilters werken is cruciaal om de e-mailbezorging te verb
 
 **6.1. Spambeleid**
 
-1. **Verborgen Beperkingen voor Kleine Bedrijven**
+**6.1.1. Verborgen Beperkingen voor Kleine Bedrijven**
 
 Big Tech blokkeert e-mails die niet voldoen aan strikte beveiligingsnormen, wat de contactmogelijkheden van kleine bedrijven belemmert.
 
 • Geen versleuteling: E-mails zonder TLS worden als onveilig gemarkeerd.
 • Spamverleden: Als een provider eerder is misbruikt, kunnen al zijn e-mails worden geblokkeerd.
 
-2. **Strikte Authenticatiebarrières**
+**6.1.2. Strikte Authenticatiebarrières**
 
 Complexe authenticatieregels leiden vaak tot automatische markering van e-mails van kleine bedrijven als spam.
 
@@ -159,20 +159,20 @@ Complexe authenticatieregels leiden vaak tot automatische markering van e-mails 
 • DKIM: Voegt een digitale handtekening toe om manipulatie te voorkomen.
 • DMARC: Bepaalt hoe e-mails met mislukte SPF- en DKIM-controles worden behandeld. Zonder deze protocollen worden e-mails geblokkeerd, wat klantcontact bemoeilijkt.
 
-3. **Gekleurde Spamfilters Bevoordelen Big Tech**
+**6.1.3. Gekleurde Spamfilters Bevoordelen Big Tech**
 
 Big Tech scant e-mails agressief en blokkeert daarbij vaak legitieme berichten van kleine bedrijven.
 
 • Spamtriggers: Te veel links, misleidende onderwerpregels, grote bijlagen of woorden als "gratis" of "klik hier" activeren de spamfilters.
 • Geen personalisatie: Generieke e-mails worden vaak als spam gemarkeerd. Grote bedrijven met een gevestigde reputatie daarentegen genieten van betere plaatsing in de inbox.
 
-4. **Oneerlijk Afzenderreputatiesysteem**
+**6.1.4. Oneerlijk Afzenderreputatiesysteem**
 
 Big Tech houdt de e-mailreputatie bij en straft daarbij vaak kleine bedrijven.
 • Slechte reputatie: Hoge bouncepercentages of spamklachten leiden tot blokkering.
 • Problemen met zwarte lijsten: Te veel klachten kunnen leiden tot blokkering van een volledig e-maildomein.
 
-5. **Strikte Naleving Bevoordeelt Big Tech**
+**6.1.5. Strikte Naleving Bevoordeelt Big Tech**
 
 Big Tech handhaaft strikte e-mailwetten (zoals CAN-SPAM, GDPR, CASL), waardoor e-mailmarketing voor kleine bedrijven moeilijker wordt.
 
@@ -181,6 +181,33 @@ Big Tech handhaaft strikte e-mailwetten (zoals CAN-SPAM, GDPR, CASL), waardoor e
 
 **6.2. Spamfilters**
 
+**6.2.1 Zwarte lijsten en witte lijsten**:
+
+• Zwarte lijsten: Lijsten van bekende spamverzenders wiens e-mails automatisch worden geblokkeerd.
+• Whitelists: Lijsten van vertrouwde afzenders wiens e-mails strenge filtering omzeilen.
+
+**6.2.2 Strikte authenticatie**: Verifieert de legitimiteit van de afzender met behulp van e-mailauthenticatieprotocollen zoals SPF, DKIM en DMARC.
+
+**6.2.3 AI-gestuurde inhoudsfiltering**: Gebruikt verborgen algoritmen om e-mails te scannen op spamgerelateerde trefwoorden, zinnen of patronen, waarbij vaak legitieme berichten worden gemarkeerd.
+
+**6.2.4 IP- en domeinreputatie**: Beoordeelt het IP-adres en de domeingeschiedenis van de afzender op eerdere spamactiviteiten.
+
+6.2.5 Gebruikersbetrokkenheidsmonitoring: Analyseert hoe ontvangers met e-mails omgaan om te bepalen of toekomstige e-mails van dezelfde afzender in de inbox, de spammap of volledig geblokkeerd moeten worden geplaatst.
+
+**6.3. Veelvoorkomende redenen waarom kleine ESP's als spam worden gemarkeerd**
+
+Kleine bedrijven hebben vaak te maken met bezorgproblemen als gevolg van verschillende factoren, waaronder:
+
+• **Gedeelde IP-reputatie** – Veel kleine bedrijven maken gebruik van externe e-maildiensten die werken met gedeelde IP-adressen. Als andere gebruikers van hetzelfde IP spam versturen, lijdt de reputatie van alle afzenders op dat IP daaronder.
+
+• **Gebrek aan juiste authenticatie** – Ontbrekende of verkeerd geconfigureerde SPF, DKIM en DMARC-records kunnen ertoe leiden dat e-mails worden geweigerd of als spam worden gemarkeerd.
+
+• **Lage betrokkenheidspercentages** – E-mails die ontvangers vaak negeren, ongeopend verwijderen of als spam markeren, dragen bij aan een negatieve afzenderreputatie.
+
+• **Gebruik van triggerwoorden** – Bepaalde zinnen zoals “Gratis Aanbieding”, “Handel Nu” of “Gegarandeerd” kunnen spamfilters activeren.
+
+7) **Hoe kleine bedrijven zich kunnen weren om de e-mailbezorging te verbeteren?**
+----------------------------------------------------------------------------------
 
 
 
