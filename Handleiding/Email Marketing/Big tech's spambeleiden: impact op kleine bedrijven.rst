@@ -393,6 +393,52 @@ Er zijn verschillende gratis en open-source (FOSS) oplossingen beschikbaar voor 
        • Ondersteunt virusscanning met populaire tools zoals ClamAV.
        • Biedt flexibele beleidsinstellingen en eenvoudige integratie met mailservers.
 
+   * - MailScanner
+     - • Integratie met SpamAssassin en ClamAV voor spam- en virusfiltering.
+       • Biedt een webinterface voor beheer.
+       • Zeer configureerbaar, met veel opties voor het verfijnen van het filterproces.
+       • Ondersteunt zowel inkomende als uitgaande e-mailfiltering.
+
+   * - Procmail
+     - • Regelgebaseerde e-mailfiltering.
+       • Ondersteunt integratie met andere tools voor spamdetectie.
+       • Kan worden gebruikt voor het beheren van e-mailbezorging en sortering.
+
+   * - Bogofilter
+     - • Bayesiaanse filtering voor hoge nauwkeurigheid.
+       • Lichtgewicht en efficiënt met een laag geheugengebruik.
+       • Eenvoudige configuratie en integratie met andere tools zoals Procmail.
+
+   * - Zerospam
+     - • Biedt verschillende filtermechanismen (DNSBL, greylisting en Bayesiaans).
+       • Werkt met populaire MTA’s zoals Postfix, Sendmail en Exim.
+       • Biedt webgebaseerd beheer.
+
+   * - DSpam
+     - • Adaptieve filtering op basis van machine learning.
+       • Hoge nauwkeurigheid bij het filteren van spamberichten.
+       • Lichtgewicht en laag in hulpbronnenverbruik.
+
+   * - Filterbay
+     - • Bayesiaanse filtering voor spamclassificatie.
+       • Webinterface voor het beheren van training.
+       • Kan worden geïntegreerd met bestaande e-mailsystemen.
+
+   * - ClamAV
+     - • Gratis, open-source antivirussoftware.
+       • Integratie met e-mailsystemen om inkomende en uitgaande berichten op malware te scannen.
+       • Regelmatige handtekeningupdates om up-to-date te blijven met bedreigingen.
+
+**10) Essentiële Hervormingen voor een Eerlijk E-mail Ecosysteem**
+------------------------------------------------------------------
+
+
+
+       
+       
+
+
+
 
 
 
