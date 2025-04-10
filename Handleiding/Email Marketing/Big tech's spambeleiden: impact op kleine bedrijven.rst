@@ -81,10 +81,15 @@ Terwijl grote bedrijven profiteren van gevestigde reputaties en whitelist-voorde
 5) **Hoe Spamfiltering Werkt?**
 --------------------------------
 .. list-table::
+   :widths: 20 20 
    :header-rows: 1
 
-* - Component  
-  - Rol
+
+   * - Component 
+     - ROL
+   * - E-mailafzender (daan@curq.nl)
+     - De persoon of het systeem dat de e-mail verzendt.
+   
 
 
 
