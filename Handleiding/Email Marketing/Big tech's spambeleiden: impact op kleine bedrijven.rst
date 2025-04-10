@@ -266,7 +266,53 @@ In tegenstelling tot starre, corporate ESPs bieden onafhankelijke providers scha
 **9) FOSS-oplossingen**
 -------------------------
 
+Voor kleine bedrijven die klanten willen bereiken zonder vast te lopen in de spamfilters van grote techbedrijven, zijn er verschillende Free and Open Source Software (FOSS)-oplossingen die kunnen helpen bij het verbeteren van de afleverbaarheid, het verhogen van de betrokkenheid en het omzeilen van spamfilters.
 
+Hier zijn enkele strategieën en tools die nuttig kunnen zijn:
+
+**9.1. Zelfgehoste e-mailservers met geavanceerde configuratie**
+
+Door je eigen e-mailserver te hosten, heb je volledige controle over de configuratie. Dit stelt je in staat om externe spamfilters – zoals die van Gmail, Outlook en andere te omzeilen.
+
+.. list-table::
+   :widths: 20 20
+   :header-rows: 1
+
+
+   * - Hulpmiddel
+     - Beschrijving
+   * - Postfix
+     - Een betrouwbare open-source mail transfer agent (MTA) die kan worden geconfigureerd voor het beheren van uitgaande e-mail. Postfix ondersteunt integratie met spamfilteringtools en helpt bij        het waarborgen van een goede afleverbaarheid.
+   * - Dovecot
+     - Voor het veilig en efficiënt ontvangen van e-mail.
+   * - Rspamd
+     - Wanneer je je eigen e-mailserver beheert, is het essentieel om spamfiltering in te stellen. Rspamd biedt hoogwaardige filtering en is flexibeler dan het vertrouwen op de spamfilters van            grote techbedrijven.
+   * - Let's Encrypt
+     - Zorg voor veilige verbindingen tussen de mailserver en gebruikers met SSL/TLS-versleuteling. Dit is steeds belangrijker voor het opbouwen van vertrouwen bij spamfilters.
+
+**9.2. Instellen van DMARC, DKIM en SPF**
+
+Om de afleverbaarheid van e-mails te verbeteren en ervoor te zorgen dat je e-mails niet als spam worden gemarkeerd, is het essentieel om **DMARC** (Domain-based Message Authentication, Reporting & Conformance), **DKIM** (DomainKeys Identified Mail) en **SPF** (Sender Policy Framework) correct te configureren.
+
+Deze protocollen verifiëren je e-maildomein en geven een signaal aan ontvangende mailservers dat je e-mails legitiem zijn. De meeste grote e-mailproviders (zoals Gmail en Outlook) gebruiken deze instellingen om spam effectief te filteren.
+
+
+.. list-table::
+   :widths: 20 20
+   :header-rows: 1
+
+
+   * - Hulpmiddel
+     - Beschrijving
+
+   * - OpenDKIM (voor DKIM)
+     - Helpt bij het configureren van domeinondertekening voor uitgaande e-mails.
+
+   * - opendmarc (voor DMARC)
+     - Helpt bij het implementeren en beheren van DMARC-beleid voor je domein.
+
+   * - SPF (Afzenderbeleid Kader)
+     - Zorg ervoor dat je SPF-record correct is ingesteld om de IP-adressen van je uitgaande mailserver te verifiëren.
 
 
 
