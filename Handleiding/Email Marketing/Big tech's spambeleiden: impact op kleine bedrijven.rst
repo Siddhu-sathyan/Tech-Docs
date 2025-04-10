@@ -1,4 +1,4 @@
-**Inleiding**
+1) **Inleiding**
 --------------
 In de digitale wereld van vandaag zijn grote technologiebedrijven zoals **Google**, **Microsoft**, **Meta** en **Yahoo** de poortwachters geworden van online communicatie. Hun strikte spamregels, door AI aangestuurde filtersystemen en verborgen algoritmen maken het vrijwel onmogelijk voor kleine bedrijven om op gelijke voet te concurreren.
 
@@ -6,13 +6,13 @@ Hoewel deze bedrijven beweren dat hun maatregelen bedoeld zijn om gebruikers te 
 
 Daarom is het voor kleine bedrijven van essentieel belang om de onrealistische spamregels die door Big Tech worden opgelegd te begrijpen en effectieve manieren te vinden om daarmee om te gaan, zodat zij vlot en zonder onderbrekingen kunnen communiceren met hun doelgroep via e-mail.
 
-**Wat is Spam en een Spamfilter?**
-----------------------------------
+2) **Wat is Spam en een Spamfilter?**
+--------------------------------------
 Spam is ongewenste e-mail of bulkmail die wordt gebruikt voor reclame of oplichting. Het vervuilt inboxen en vormt een beveiligingsrisico. Deze e-mails worden vaak ingezet om producten of diensten te promoten, of om frauduleuze praktijken te verspreiden. Spam kan inboxen overvol maken, waardoor het voor gebruikers lastig wordt om belangrijke berichten terug te vinden.
 
 Spamfilters zijn hulpmiddelen of software die zijn ontworpen om spamberichten te herkennen en te beheren. Ze maken gebruik van een combinatie van verborgen technieken, regels, kunstmatige intelligentie en authenticatiemethoden om inkomende e-mails te analyseren en te bepalen of ze in de inbox moeten worden afgeleverd of doorgestuurd naar de spammap.
 
-**3. Impact of Onbedoelde Gevolgen voor Kleine Bedrijven**
+3) **Impact of Onbedoelde Gevolgen voor Kleine Bedrijven**
 ------------------------------------------------------------
 E-mail blijft een essentieel communicatie en marketingmiddel voor bedrijven. De toenemende controle van grote technologiebedrijven over e-mailfiltering en bezorging heeft echter onbedoelde obstakels gecreëerd voor kleinere ondernemingen.
 
@@ -21,7 +21,6 @@ Van legitieme e-mails die als spam worden gemarkeerd tot problemen met zwarte li
 Hier volgt hoe deze verborgen mechanismen kleine bedrijven beïnvloeden:
 
 **Legitieme e-mails worden als spam gemarkeerd**
-
 Kleine bedrijven merken vaak dat hun transactie-e-mails, facturen en klantvragen in de spammap belanden, zelfs wanneer zij de best practices volgen. Dit vermindert de betrokkenheid en verstoort de bedrijfsvoering.
 
 **De strijd om in beroep te gaan**
@@ -40,8 +39,15 @@ Als de e-mailserver van een klein bedrijf op een zwarte lijst komt te staan, is 
 
 De gevolgen van agressieve spamfilterbeleidsmaatregelen door grote technologiebedrijven kunnen rampzalig zijn voor kleine ondernemingen:
 
-*Omzetverlies* - Essentiële e-mails, waaronder promoties, facturen klantenserviceberichten, bereiken mogelijk nooit de bedoelde ontvanger.
+• **Omzetverlies** - Essentiële e-mails, waaronder promoties, facturen klantenserviceberichten, bereiken mogelijk nooit de bedoelde ontvanger.
+• **Stijgende marketingkosten** – Bedrijven worden mogelijk gedwongen te investeren in alternatieve marketingkanalen, zoals betaalde advertenties.
+• **Geschaad klantvertrouwen** – Klanten kunnen belangrijke updates missen of slechte service vermoeden door niet-afgeleverde e-mails.
+• **Marktdominantie door Big Tech** – Kleine spelers worden weggedrukt, terwijl grote merken bevoorrechte toegang tot inboxen genieten.
+• **Verlies van verkoop en klantvertrouwen** – Als e-mails de inbox niet bereiken of berichten op sociale media niet worden gezien, lopen bedrijven potentiële verkopen en betrokkenheid mis.
+• **Gebrek aan transparantie** – Grote technologiebedrijven geven zelden uitleg over waarom bepaalde berichten worden geblokkeerd of verborgen, waardoor kleine bedrijven machteloos staan.
 
+4) **Hoe Big Tech Kleine Bedrijven Onderdrukt?**
+--------------------------------------------------
 
 
 
