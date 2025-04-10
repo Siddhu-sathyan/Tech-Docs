@@ -108,6 +108,32 @@ Terwijl grote bedrijven profiteren van gevestigde reputaties en whitelist-voorde
    * - E-mailontvanger (john@outlook.com)
      - De persoon of het systeem dat de e-mail ontvangt en de inbox of spammap kan controleren.
 
+
+**5.1 Verzendproces van de E-mail**
+
+• De afzender (bijv. daan@curq.nl) verstuurt een e-mail.
+• De authenticatiedaemon controleert de beveiligingsprotocollen.
+• De SMTP-service van de afzender stuurt de e-mail door naar de server van de ontvanger.
+
+**5.2 Ontvangst van E-mail en Spamcontrole**
+
+• De SMTP-service van de ontvanger (IMAP/POP3) verwerkt de binnenkomende e-mails.
+• Het systeem controleert of het IP-adres van de afzender op een zwarte lijst staat:
+      • **Op zwarte lijst**: De e-mail wordt geweigerd.
+      • **Niet op zwarte lijst**: De e-mail gaat door naar de spamfilter.
+
+**5.3 Spamfiltering en Bezorging**
+
+• Het spamfilter controleert de inhoud, de reputatie van de afzender en de gebruikersbetrokkenheid.
+• Op basis van de resultaten wordt de e-mail:
+   • Inbox: Als de e-mail legitiem is.
+   • Spammap: Als de e-mail niet legitiem is, wordt deze als spam gemarkeerd.
+
+**5.4 Ontvangst van de E-mail**
+
+• De ontvanger (bijv. john@outlook.com) controleert de inbox of de spammap.
+• Als de e-mail in de spammap staat, verbetert het markeren als "Geen spam" de toekomstige bezorging.
+
    
 
 
