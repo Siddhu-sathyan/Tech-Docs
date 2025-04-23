@@ -1,5 +1,5 @@
 1) **Inleiding**
---------------
+----------------
 In de digitale wereld van vandaag zijn grote technologiebedrijven zoals **Google**, **Microsoft**, **Meta** en **Yahoo** de poortwachters geworden van online communicatie. Hun strikte spamregels, door AI aangestuurde filtersystemen en verborgen algoritmen maken het vrijwel onmogelijk voor kleine bedrijven om op gelijke voet te concurreren.
 
 Hoewel deze bedrijven beweren dat hun maatregelen bedoeld zijn om gebruikers te beschermen tegen spam en kwaadaardige e-mails, is de realiteit dat hun overdreven agressieve filtertechnieken kleine bedrijven verstikken, hen beletten om klanten te bereiken, en uiteindelijk meer macht concentreren in de handen van Big Tech.
